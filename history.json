@@ -1,0 +1,66 @@
+[
+    {
+        "TxId": "07c4838304968982a15a4e64842987bb21a627b01706bc08e5a6b41ecb977b23",
+        "dateTransaction": "2019-07-27T06:56:37.000Z",
+        "transaction": {
+            "cnpj": "001",
+            "name": "Universidade de São Paulo",
+            "library": []
+        }
+    },
+    {
+        "TxId": "91a05111c0106099e3ff850690b0f3d2e7b23d91f444eee3f4fca1394b71f906",
+        "dateTransaction": "2019-07-27T06:56:48.000Z",
+        "transaction": {
+            "cnpj": "001",
+            "name": "USP",
+            "library": []
+        }
+    },
+    {
+        "TxId": "d843cff225f8b3d20a27d1134812f9a33a25943acceff009b1914dda595cb1f5",
+        "dateTransaction": "2019-07-27T06:56:55.000Z",
+        "transaction": ""
+    },
+    {
+        "TxId": "9b4964ceca35c423eda7d34eb871cdc4868f4757ba4a10fd4b9dce4e9c5647d5",
+        "dateTransaction": "2019-07-27T07:16:33.000Z",
+        "transaction": {
+            "cnpj": "001",
+            "name": "FIAP",
+            "library": []
+        }
+    },
+    {
+        "TxId": "a15073479255979784a85679b8f67e5db71f95e6068818b20a9f700f5fe4d547",
+        "dateTransaction": "2019-07-27T07:16:56.000Z",
+        "transaction": {
+            "cnpj": "001",
+            "library": [
+                {
+                    "book": "Pequeno Príncipe",
+                    "date": "2019-07-27T10:16:56.662Z"
+                }
+            ],
+            "name": "FIAP"
+        }
+    },
+    {
+        "TxId": "3cc0c5646645bb6435fcb86e7fd16a83f90ec4f1fd172ff2f08288c7604403c9",
+        "dateTransaction": "2019-07-27T07:17:11.000Z",
+        "transaction": {
+            "cnpj": "001",
+            "library": [
+                {
+                    "book": "Pequeno Príncipe",
+                    "date": "2019-07-27T10:16:56.662Z"
+                },
+                {
+                    "book": "O que é BLOCKCHAIN?",
+                    "date": "2019-07-27T10:17:11.231Z"
+                }
+            ],
+            "name": "FIAP"
+        }
+    }
+]
